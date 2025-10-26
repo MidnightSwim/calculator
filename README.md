@@ -1,2 +1,2 @@
 # calculator
-Last Assignement of the first part of TOP
+Project from The Odin Project
